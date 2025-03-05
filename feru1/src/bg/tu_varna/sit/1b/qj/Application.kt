@@ -24,5 +24,7 @@ public class Application {
 
     //OJASDGHASF
 
+    //KODA NA FERU!
+
     //versiq 0.3
 }
