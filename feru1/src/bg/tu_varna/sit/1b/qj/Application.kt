@@ -35,4 +35,6 @@ public class Application {
     //tonkata puska 3
 
     //feru puska 2
+
+    //diamantite gi kopam s lopata
 }
