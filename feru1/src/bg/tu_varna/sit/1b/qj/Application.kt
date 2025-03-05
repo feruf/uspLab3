@@ -12,28 +12,4 @@ public class Application {
             .withPrice(28.75)
             .build();
     }
-
-
-    //za mostatata
-    //za tonkata
-
-
-    //asdasdasdasddsaQ
-
-    //versiq 0.1
-
-    //versiq 0.2
-
-    //OJASDGHASF
-
-    //KODA NA FERU!
-
-    //versiq 0.3
-
-    // 3 na 0 za leski
-
-    //tonkata puska 3
-    //qjte mijki
-
-    //feru puska 2
 }
