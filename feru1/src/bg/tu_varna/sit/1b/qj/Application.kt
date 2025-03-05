@@ -12,6 +12,9 @@ public class Application {
             .withPrice(28.75)
             .build();
     }
-    //messi
-    //cr7
+
+
+    //za mostatata
+    //za tonkata
+
 }
