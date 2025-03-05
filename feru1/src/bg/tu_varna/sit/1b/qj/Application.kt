@@ -32,7 +32,7 @@ public class Application {
 
     // 3 na 0 za leski
 
-
+    //qjte mijki
 
     //feru puska 2
 }
