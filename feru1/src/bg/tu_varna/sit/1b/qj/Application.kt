@@ -33,6 +33,7 @@ public class Application {
     // 3 na 0 za leski
 
     //tonkata puska 3
+    //qjte mijki
 
     //feru puska 2
 
