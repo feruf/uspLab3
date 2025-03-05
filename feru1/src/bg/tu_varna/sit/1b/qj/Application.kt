@@ -33,4 +33,8 @@ public class Application {
     // 3 na 0 za leski
 
     //neymarJR
+
+    //tonkata puska 3
+
+    //feru puska 2
 }
