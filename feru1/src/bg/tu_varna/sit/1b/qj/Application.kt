@@ -27,4 +27,6 @@ public class Application {
     //KODA NA FERU!
 
     //versiq 0.3
+
+    // 3 na 0 za leski
 }
