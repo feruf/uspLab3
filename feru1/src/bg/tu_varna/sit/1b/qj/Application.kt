@@ -17,4 +17,8 @@ public class Application {
     //za mostatata
     //za tonkata
 
+
+    //asdasdasdasddsaQ
+
+    //versiq 0.1
 }
