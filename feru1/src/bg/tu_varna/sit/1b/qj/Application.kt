@@ -38,4 +38,6 @@ public class Application {
     //qjte mijki
 
     //feru puska 2
+
+    //diamantite gi kopam s lopata
 }
