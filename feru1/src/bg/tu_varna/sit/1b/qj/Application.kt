@@ -22,6 +22,8 @@ public class Application {
 
     //versiq 0.1
 
+    //versiq 0.2
+
     //versiq 0.3
 
     // 3 na 0 za leski
